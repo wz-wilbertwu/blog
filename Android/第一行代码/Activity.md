@@ -1,4 +1,4 @@
-title: 广播接收器
+title: Activity
 tag:
 - android
 - 第一行代码
