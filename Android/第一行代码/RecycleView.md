@@ -1,5 +1,6 @@
 title: RecycleView
-tag:
+date: 2016-09-26
+tags:
 - android
 
 ---

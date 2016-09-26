@@ -1,4 +1,5 @@
 title: 异步消息处理
+date: 2016-09-26
 tags:
 - android
 - 第一行代码
